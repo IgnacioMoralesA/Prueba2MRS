@@ -3,7 +3,7 @@
 
 ```st
 Metacello new
-	repository: '';
+	repository: 'https://github.com/IgnacioMoralesA/Prueba2MRS.git';
 	baseline: 'Prueba2MRS';
 	load
 ```
